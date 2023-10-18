@@ -6,4 +6,4 @@ Hadi Soufi,
 James Karpowich,
 Alexa Beers,
 Justine DeRuycK,
-Stephen Cowling,
+Stephen Cowling
